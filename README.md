@@ -1,1 +1,3 @@
 # bmeCapstone
+
+Testings for sensors.
