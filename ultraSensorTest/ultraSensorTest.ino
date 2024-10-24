@@ -10,6 +10,7 @@ const int echoPin = 3;
 // WiFi credentials
 const char* ssid = "URI_BME2.4G";
 const char* password = "URIb3m6e1";
+// hello world
 
 WiFiClient client;
 
