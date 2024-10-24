@@ -1,0 +1,2 @@
+#define SECRET_SSID "URI_BME2.4G";
+#define SECRET_PASS "URIb3m6e1";
