@@ -1,3 +1,5 @@
 {
-    "sketch": "SimpleWebServerWiFi/SimpleWebServerWiFi.ino"
+    "sketch": "SimpleWebServerWiFi/SimpleWebServerWiFi.ino",
+    "port": "/dev/tty.usbmodem1101",
+    "board": "arduino:samd:nano_33_iot"
 }

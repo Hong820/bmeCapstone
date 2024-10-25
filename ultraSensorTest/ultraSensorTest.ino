@@ -8,16 +8,19 @@ const int echoPin = 3;
 
 
 // WiFi credentials
-const char* ssid = "URI_BME2.4G";
-const char* password = "URIb3m6e1";
-// hello world
+// const char* ssid = "URI_BME2.4G";
+// const char* password = "URIb3m6e1";
+
+const char* ssid = "Tien2.4";
+const char* password = "Mochi123";
 
 WiFiClient client;
 
 // ThingSpeak settings
-unsigned long myChannelNumber = 2711389;
+unsigned long myChannelNumber = 2713503;
+const char* myWriteAPIKey = "KCDGEUQEM9UVSNRL";
+// unsigned long myChannelNumber = 2711389;
 // const char* myWriteAPIKey = "CAI8XCLH95E9H4C5";
-const char* myWriteAPIKey = "5U24SF1KELOEWI3D";
 
 void setup() {
  Serial.begin(9600);
